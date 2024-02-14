@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrexMaxBets", "OrexMaxBets\OrexMaxBets.csproj", "{E7BB547C-234C-4B0D-A0CB-CB211635BE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7BB547C-234C-4B0D-A0CB-CB211635BE9A}.Debug|x64.ActiveCfg = Debug|x64
+		{E7BB547C-234C-4B0D-A0CB-CB211635BE9A}.Debug|x64.Build.0 = Debug|x64
+		{E7BB547C-234C-4B0D-A0CB-CB211635BE9A}.Release|x64.ActiveCfg = Release|x64
+		{E7BB547C-234C-4B0D-A0CB-CB211635BE9A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B6DE3A-B4BC-42FF-8A82-E4F8279F7BF6}
+	EndGlobalSection
+EndGlobal
